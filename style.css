@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(235, 129, 235);
+    font-family: comic;
+}
+#score
+{
+    font-size: 25px;
+    margin-left: 50px;
+    float: left;
+}
+#time
+{
+    font-size: 25px;
+    margin-right: 50px;
+    float: right;
+}
+#sketch_to_be_drawn
+{
+    color: red;
+    font-size: 30px;
+}
